@@ -1,4 +1,5 @@
 * {
+	background-color: grey;
 	margin: 0px;
 	padding: 0px;
 	font-family: : Times, Arial, Sans-serif;
@@ -6,14 +7,15 @@
 
 }
 .headerMenu {
-	background-color: black;
-	height: 50px;
+	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
+	height: 57px;
 	border-bottom: 0px;
 	padding-left: auto;
 	padding-right: auto;
 	width: 100%;
 }
 #wrapper {
+	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 	margin left: auto;
 	margin-right: auto;
 	width: 1000px;
@@ -23,46 +25,53 @@
 
 }
 .logo {
+	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 	width: 125px;
 
 }
 .logo img {
+	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 	width: 150px;
 	height: 43px;
 	padding: 5px;
 }
 .search_box {
+	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 position: absolute;
 top: 15px;
-margin-left: 1500px;
+margin-left: 1150px;
 }
 
-@media screen and (max-width: 1280px){
-#menu {
-	position: absolute;
-		top: 0px;
-		right: 0px
-		height:37px;
-		padding-top: 19px;
-		margin-right: 4%;
-}
-}
-@media screen and (min-width: 12800px){
+@media screen and (max-width: 1280px) {
 	#menu {
-		position: absolute;
-		top: 0px;
-		right: 0px
-		height:37px;
-		padding-top: 19px;
-		margin-right: 6%;
+
+	background-image: url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
+	position: absolute;
+	top: 0px;
+	right: 37px;
+	padding-top: 19px;
+	margin-right: 4%;
+
+}
+}
+@media screen and (min-width: 1280px) {
+	#menu {
+
+	background-image: url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
+	position: absolute;
+	top: 0px;
+	right: 37px;
+	padding-top: 19px;
+	margin-right: 6%
+}
+}
 
 
-	} 
-	}
 #menu a {
-	color: black;
+	color: green;
 	text-decoration: none;
 	font-size: 14px;
+	background-image: url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 	background-repeat: no-repeat;
 	padding-top: 19px;
 	padding-bottom: 22px;
@@ -70,4 +79,6 @@ margin-left: 1500px;
 	padding-right: 10px;
 
 }
-
+#menu a:hover {
+	background-image: url(http://thumbs.dreamstime.com/t/metal-texture-10908618.jpg);
+}
