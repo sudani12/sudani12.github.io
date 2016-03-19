@@ -7,7 +7,7 @@
 }
 .headerMenu {
 	background-color: black;
-	height: 45px;
+	height: 50px;
 	border-bottom: 0px;
 	padding-left: auto;
 	padding-right: auto;
@@ -29,4 +29,45 @@
 .logo img {
 	width: 150px;
 	height: 43px;
+	padding: 5px;
 }
+.search_box {
+position: absolute;
+top: 15px;
+margin-left: 1500px;
+}
+
+@media screen and (max-width: 1280px){
+#menu {
+	position: absolute;
+		top: 0px;
+		right: 0px
+		height:37px;
+		padding-top: 19px;
+		margin-right: 4%;
+}
+}
+@media screen and (min-width: 12800px){
+	#menu {
+		position: absolute;
+		top: 0px;
+		right: 0px
+		height:37px;
+		padding-top: 19px;
+		margin-right: 6%;
+
+
+	} 
+	}
+#menu a {
+	color: black;
+	text-decoration: none;
+	font-size: 14px;
+	background-repeat: no-repeat;
+	padding-top: 19px;
+	padding-bottom: 22px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
