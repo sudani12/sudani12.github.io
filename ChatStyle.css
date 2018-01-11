@@ -16,7 +16,7 @@ input { font:12px arial; }
 a {
     color:green;
     text-decoration:none;
-    background-color: black;
+    background-color: white;
 }
   
     a:hover { text-decoration:underline; }
@@ -24,7 +24,7 @@ a {
 #wrapper, #loginform {
     margin:0 auto;
     padding-bottom:25px;
-    background:black;
+    background:white;
     width:504px;
     border:1px solid green; }
   
@@ -40,12 +40,12 @@ a {
     background:#fff;
     height:270px;
     width:430px;
-    border:1px solid white;
+    border:1px solid green;
     overflow:auto; }
   
 #usermsg {
     width:395px;
-    border:1px solid black; }
+    border:1px solid green; }
   
 #submit { width: 60px; }
   
