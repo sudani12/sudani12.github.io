@@ -5,7 +5,6 @@ body {
     font:12px arial;
     color: green;
     text-align:center;
-    background-color: black;
     padding:35px; }
   
 form, p, span {
@@ -25,7 +24,7 @@ a {
 #wrapper, #loginform {
     margin:0 auto;
     padding-bottom:25px;
-    background:white;
+    background:black;
     width:504px;
     border:1px solid green; }
   
