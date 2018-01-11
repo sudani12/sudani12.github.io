@@ -71,8 +71,9 @@ margin-left:50px;
 	background-image: url(http://thumbs.dreamstime.com/t/metal-texture-10908618.jpg);
 }
 
-name {
+h1 {
 	font-size: 1000px;
+	color: green;
 }
 		
 		
