@@ -1,5 +1,5 @@
 * {
-	background-color: grey;
+	background-color: white;
 	margin: 0px;
 	padding: 0px;
 	font-family: : Times, Arial, Sans-serif;
@@ -39,7 +39,7 @@
 	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 position: absolute;
 top: 15px;
-margin-left: 1150px;
+margin-left: 100px;
 }
 
 @media screen and (max-width: 1280px) {
@@ -68,7 +68,7 @@ margin-left: 1150px;
 
 
 #menu a {
-	color: green;
+	color: red;
 	text-decoration: none;
 	font-size: 14px;
 	background-image: url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
