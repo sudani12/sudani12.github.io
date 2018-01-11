@@ -21,25 +21,12 @@
 	width: 1000px;
 	padding-top: 0px;
 	padding-bottom: 0px;
-
-
-}
-.logo {
-	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
-	width: 125px;
-
-}
-.logo img {
-	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
-	width: 150px;
-	height: 43px;
-	padding: 5px;
 }
 .search_box {
 	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 position: absolute;
 top: 15px;
-margin-left: 100px;
+margin-left: 500px;
 }
 
 @media screen and (max-width: 1280px) {
