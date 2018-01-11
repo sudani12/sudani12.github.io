@@ -9,10 +9,10 @@
 .headerMenu {
 	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 	height: 57px;
-	border-bottom: 10px;
+	border-bottom: 50px;
 	padding-left: auto;
 	padding-right: auto;
-	width: 100%;
+	width: 90%;
 }
 #wrapper {
 	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
@@ -26,7 +26,7 @@
 	background-image:url(http://vignette1.wikia.nocookie.net/vsbattles/images/a/a3/Black-windows_542931.jpg/revision/latest?cb=20150317090032);
 position: absolute;
 top: 15px;
-margin-left:1000px;
+margin-left:50px;
 }
 
 @media screen and (max-width: 1280px) {
