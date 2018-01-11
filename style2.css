@@ -11,7 +11,7 @@ form, p, span {
 input { font:12px arial; }
   
 a {
-    color:#0000FF;
+    color:green;
     text-decoration:none; }
   
     a:hover { text-decoration:underline; }
@@ -21,7 +21,7 @@ a {
     padding-bottom:25px;
     background:#EBF4FB;
     width:504px;
-    border:1px solid #ACD8F0; }
+    border:1px solid green; }
   
 #loginform { padding-top:18px; }
   
@@ -35,7 +35,7 @@ a {
     background:#fff;
     height:270px;
     width:430px;
-    border:1px solid #ACD8F0;
+    border:1px solid black;
     overflow:auto; }
   
 #usermsg {
