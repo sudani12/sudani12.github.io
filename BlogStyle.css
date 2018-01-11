@@ -4,6 +4,7 @@ background-color: grey;
 
 h4 {
   margin: auto;
+  padding: 20px;
   border-style:groove;
   border-color: black;
 }
