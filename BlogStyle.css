@@ -3,7 +3,6 @@ background-color: grey;
 }
 
 p1 {
-  margin-left:1000px;
   border-style:groove;
-  
+  border-color: black;
 }
