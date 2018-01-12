@@ -84,6 +84,12 @@ aside {
 	border-width: 5px;
 	
 }
+
+#article {
+	border-style: rounded;
+	border-color: green;
+	border-width: 5px;
+}
 	
 		
 		
