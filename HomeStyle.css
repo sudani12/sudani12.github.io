@@ -78,17 +78,12 @@ h1 {
 
 }
 
-aside {
-	border-style: rounded;
-	border-color: green;
-	border-width: 5px;
-	
-}
 
 #article {
 	border-style: rounded;
 	border-color: green;
 	border-width: 5px;
+	background-color: white;
 }
 	
 		
